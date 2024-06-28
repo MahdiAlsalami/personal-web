@@ -26,6 +26,8 @@ This website showcases my skills, projects, and professional experience as a sof
 
 Mahdi Alsalami - mahdialsalami
 
-Project Link: [URL of this GitHub repository]
+Project Link: https://mahdialsalami.github.io/personal-web/
+
+)
 
 Would you like me to elaborate on any section of this ReadMe?
